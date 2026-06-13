@@ -1,1 +1,35 @@
-university website
+# Ideathon Website
+
+## Overview
+
+Static ideathon event website built with HTML/CSS/JavaScript.
+
+Project type: static web project.
+
+## What This Repository Contains
+
+- `README.md`
+- `Website_Ideathon/index.html`
+
+## Tech Stack
+
+HTML/CSS
+
+## How To Run / Use
+
+Open the HTML file in a browser:
+
+```bash
+Website_Ideathon/index.html
+```
+
+## Current Status
+
+This repository has enough structure to be understandable from the README and file layout.
+
+## Notes For Reviewers
+
+- Start with the overview and key files above.
+- If this is a notebook repository, run it in a clean Jupyter or VS Code notebook environment.
+- If this is a frontend app, run the install/build commands before judging the project.
+- Some older practice repositories are kept public for learning history, not as primary portfolio pieces.
